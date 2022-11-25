@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">preparationLazy</string>
+    <string name="slect_country">slect-country</string>
+    <string name="american_dollar">Dollar-Americain</string>
+    <string name="from">from</string>
+    <string name="currency_conveter">Currency Conveter</string>
+    <string name="to">To</string>
+    <string name="dirame">Dirham-Marocain</string>
+    <string name="amount">amount</string>
+    <string name="convert">convert</string>
+    <string name="result">result</string>
+    <string name="converted_amount">converted amount</string>
+    <string name="share">share</string>
+    <string name="contact">contact as</string>
+    <string name="settings">settings</string>
+</resources>

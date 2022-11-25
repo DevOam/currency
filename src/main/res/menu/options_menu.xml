@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/share"
+        app:showAsAction="never"
+    />
+    <item
+        android:id="@+id/contact"
+        android:title="@string/contact"
+        android:icon="@drawable/person"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:icon="@drawable/settings"
+        app:showAsAction="never"
+        />
+</menu>
